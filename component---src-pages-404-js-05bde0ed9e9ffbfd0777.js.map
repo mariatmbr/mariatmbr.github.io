@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://maria-portfolio/./src/pages/404.js"],"names":["IndexPage"],"mappings":"kLAEe,SAASA,IACtB,OAAO","file":"component---src-pages-404-js-05bde0ed9e9ffbfd0777.js","sourcesContent":["import * as React from \"react\"\n\nexport default function IndexPage(){\n  return <h1>404</h1>\n}"],"sourceRoot":""}
