@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg-color {
+    background-color: #9B169E;
+}
+
+.bg-about {
+    background-color: #351A67;
+}
+
+.bg-part-about {
+    background-color: transparent;
+}
