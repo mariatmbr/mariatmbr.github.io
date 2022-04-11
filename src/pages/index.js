@@ -17,7 +17,7 @@ export default function IndexPage() {
             Hello, I'm Maria Tîmbur
           </span>
           <span className="body font-mono font-medium">
-            I am 20 and currently pursuing a Computer Science Major at the University Politechnica of Bucharest.
+            I am 21 and currently pursuing a Computer Science Major at the University Politechnica of Bucharest.
           </span>
         </div>
 

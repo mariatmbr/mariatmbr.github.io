@@ -19,7 +19,7 @@ export default function About() {
                     <p className="font-bold">University “Politehnica” of Bucharest:
                         <span className="font-light"> Faculty of Automatic Control and Computer Science  </span></p>
                     <p className="font-bold">    Expected graduation date: <span className="font-light"> July 2023 </span> </p>
-                    <p className="font-bold">    Computer Science: <span className="font-light"> Bachelor’s degree, 2nd year  </span></p>
+                    <p className="font-bold">    Computer Science: <span className="font-light"> Bachelor’s degree, 3rd year  </span></p>
                     <p className="font-bold">    Current average GPA: <span className="font-light"> 9.83/10  </span> </p>
                 </div>
             </div>

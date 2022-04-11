@@ -10,7 +10,7 @@ export default function NavBar() {
                 MARIA TÎMBUR
             </a>
         </div>
-        <div class="navbar-center hidden px-2 mx-2 lg:flex">
+        <div class="navbar-center hidden px-2 mx-2 lg:flex pr-100">
             <div class="flex items-stretch">
                 <a class="btn btn-ghost btn-sm rounded-btn" 
                 href="/">

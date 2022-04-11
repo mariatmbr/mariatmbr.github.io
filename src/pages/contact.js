@@ -20,7 +20,7 @@ export default function Contact() {
 
             <span className="flex flex-row justify-between text-white">
                 <div className="flex flex-col w-1/4 mt-40 ml-5">
-                    <span className="title inline-block font-mono font-bold text-lg mb-5">
+                    <span className="title font-mono font-bold text-lg mb-5">
                         Don't hesitate to contact me for further collaborations.
                     </span>
                 </div>
@@ -43,7 +43,7 @@ export default function Contact() {
         </div>
 
         <div className="flex flex-col justify-center h-full items-center">
-            <span className="text-white mb-5 italic justify-end  font-extralight"> <h2>Copyright © by Maria Tîmbur 2021 </h2></span>
+            <span className="text-white mb-5 italic justify-end  font-extralight"> <h2>Copyright © by Maria Tîmbur 2022 </h2></span>
         </div>
     </Layout>
 }
