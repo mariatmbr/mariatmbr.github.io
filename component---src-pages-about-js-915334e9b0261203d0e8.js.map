@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://maria-portfolio/./src/pages/about.js"],"names":["About"],"mappings":"gLAEe,SAASA,IACpB,OAAO","file":"component---src-pages-about-js-915334e9b0261203d0e8.js","sourcesContent":["import * as React from \"react\";\n\nexport default function About(){\n    return <h1>Vapshe crutaia fata</h1>\n}"],"sourceRoot":""}

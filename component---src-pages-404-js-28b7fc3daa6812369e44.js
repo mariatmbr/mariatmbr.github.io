@@ -1,2 +1,0 @@
-(self.webpackChunkmaria_portfolio=self.webpackChunkmaria_portfolio||[]).push([[883],{616:function(e,n,r){"use strict";r.r(n),r.d(n,{default:function(){return u}});var t=r(294);function u(){return t.createElement("h1",null,"404")}}}]);
-//# sourceMappingURL=component---src-pages-404-js-28b7fc3daa6812369e44.js.map

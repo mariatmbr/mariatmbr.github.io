@@ -1,2 +1,0 @@
-(self.webpackChunkmaria_portfolio=self.webpackChunkmaria_portfolio||[]).push([[682],{518:function(a,t,e){"use strict";e.r(t),e.d(t,{default:function(){return n}});var r=e(294);function n(){return r.createElement("h1",null,"Vapshe crutaia fata")}}}]);
-//# sourceMappingURL=component---src-pages-about-js-915334e9b0261203d0e8.js.map
