@@ -15,7 +15,7 @@ export default function Projects() {
                 date="July 2022-October 2022"
                 iconStyle={{ background: 'rgb(115,26,114)', color: '#fff' }}>
 
-                <h3 className="vertical-timeline-element-title font-normal">Incoming Software Engineering Intern</h3>
+                <h3 className="vertical-timeline-element-title font-normal">Software Engineering Intern</h3>
                 <h4 className="vertical-timeline-element-subtitle font-extralight">Google, Munich Germany</h4>
             </VerticalTimelineElement>
 
