@@ -52,6 +52,16 @@ export default function Projects() {
 responds to queries using the latest saved data.</h4>
             </VerticalTimelineElement>
 
+            <VerticalTimelineElement
+                className="vertical-timeline-element--work font-light"
+                contentStyle={{ background: 'rgb(115,26,114)', color: '#fff' }}
+                contentArrowStyle={{ borderRight: '7px solid  rgb(192,15,244)' }}
+                date="May 2020"
+                iconStyle={{ background: 'rgb(115,26,114)', color: '#fff' }}>
+                <h3 className="vertical-timeline-element-title font-normal">Project: Academy Network</h3>
+                <h4 className="vertical-timeline-element-subtitle font-extralight"> Built in C a system that aggregates information about 100k+ scientific articles and
+responds to queries using the latest saved data.</h4>
+            </VerticalTimelineElement>
 
         </VerticalTimeline>
     </Layout>

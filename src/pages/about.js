@@ -12,7 +12,6 @@ export default function About() {
 
             <div class="card glass lg:card-side text-neutral-content mt-4 mr-4">
                 <figure class="p-6">
-                    <img src="https://toppng.com/uploads/preview/icons-education-education-icon-purple-11553430165fbcetvy8ll.png" class="rounded-lg shadow-lg w-20 h-20 rounded-full" />
                 </figure>
                 <div class="max-w-md card-body">
                     <h2 class="card-title">Education</h2>
@@ -27,12 +26,11 @@ export default function About() {
 
             <div class="card glass lg:card-side text-neutral-content mt-4 mr-4">
                 <figure class="p-6">
-                    <img src={project} class="rounded-lg shadow-lg w-20 h-20 rounded-full " />
                 </figure>
                 <div class="max-w-md card-body">
                     <h2 class="card-title">Projects & Experience</h2>
                     <p className= "font-semibold">Want to know more about my Projects & Experience?
-                        <span className="font-light">Be my guest! </span>
+                        <span className="font-light"> Be my guest! </span>
                     </p>
                     <div class="card-actions">
                         <button class="btn glass rounded-full" onClick={() => navigate("/about/projects")}> know more</button>
@@ -45,7 +43,6 @@ export default function About() {
 
             <div class="card glass lg:card-side text-neutral-content mt-4 mr-4">
                 <figure class="p-6">
-                    <img src={skills} class="rounded-lg shadow-lg w-20 h-20 rounded-full" />
                 </figure>
                 <div class="max-w-md card-body">
                     <h2 class="card-title">Skills</h2>
@@ -88,10 +85,8 @@ export default function About() {
                 </div>
             </div>
 
-
             <div class="card glass lg:card-side text-neutral-content mt-4 mr-4">
                 <figure class="p-6">
-                    <img src={first} class="rounded-lg shadow-lg w-20 h-20 rounded-full" />
                 </figure>
                 <div class="max-w-md card-body">
                     <h2 class="card-title">Awards & Achievements</h2>

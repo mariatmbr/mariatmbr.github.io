@@ -1,5 +1,5 @@
 import * as React from "react";
-import photo from "../images/photo_contact.jpg";
+import photo from "../images/me.jpeg";
 
 export default function NavBar() {
 
@@ -17,6 +17,10 @@ export default function NavBar() {
                     Home
                 </a>
                 <a class="btn btn-ghost btn-sm rounded-btn"
+                    href="/blog">
+                    Blog
+                </a>
+                <a class="btn btn-ghost btn-sm rounded-btn"
                    href="/about">
                     About
                 </a>
@@ -28,8 +32,8 @@ export default function NavBar() {
         </div>
         <div class="navbar-end">
             <div class="avatar">
-                <div class="rounded-full w-14 h-14 m-1">
-                <img src={photo} className="w-15 h-15"/>
+                <div class="rounded-full w-20 h-20 m-1">
+                <img src={photo} className="w-50 h-50"/>
                 </div>
             </div>
         </div>

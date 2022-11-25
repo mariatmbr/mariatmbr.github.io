@@ -1,7 +1,7 @@
 import * as React from "react"
 import Layout from "../components/Layout";
 import cer_si_cladiri from "../images/cer_si_cladiri.jpg";
-import purple_mail from "../images/mail3.jpg";
+import purple_mail from "../images/mail3.jpeg";
 import purple_linkedin from "../images/purple-linkedin.png";
 import purple_git from "../images/git5.jpg";
 import purple_fb from "../images/fb3.png";
@@ -37,7 +37,7 @@ export default function Contact() {
                     <a href="https://www.linkedin.com/in/mariatmbr"> <img src={purple_linkedin} className="rounded-full w-16 h-16" /> </a>
                     <a href="https://github.com/mariatmbr"> <img src={purple_git} className="rounded-full w-16 h-16" /> </a>
                     <a href="https://www.facebook.com/ihaveabaddecade"> <img src={purple_fb} className="rounded-full w-16 h-16" /> </a>
-                    <a href="mailto: mariatimbur27@gmail.com"> <img src={purple_mail} className="rounded-full w-16 h-16" /> </a>
+                    <a href="mailto:mariatimbur27@gmail.com"> <img src={purple_mail} className="rounded-full w-16 h-16" /> </a>
                 </div>
             </div>
         </div>

@@ -13,7 +13,7 @@ export default function Layout({ children, img, bgTopMargin }) {
         </div>
         <SEO />
         <title>
-            Maria's Portfolio
+            Maria's Website
         </title>
         <div className="relative flex flex-col z-100 h-full">
             <NavBar />
