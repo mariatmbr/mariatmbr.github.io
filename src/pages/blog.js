@@ -21,9 +21,9 @@ export default function Blog() {
                     <div class="badge badge-outline">Computer Science</div>
                     <div class="badge badge-outline">Experience</div>
                     </div>
-                    
-                    <button class="btn btn-primary mt-5"  onClick={() => navigate("/blog/My_experience_as_a_STEP_Intern")}>Read more</button>
-
+                    <button class="btn btn-primary mt-5" 
+                    //  onClick={() => navigate("/blog/My_experience_as_a_STEP_Intern")}
+                    >Read more</button>
                 </div>
             </div>
         </div>
