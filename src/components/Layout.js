@@ -12,9 +12,6 @@ export default function Layout({ children, img, bgTopMargin }) {
             <img src={img} className={"object-cover transform scale-110 w-screen h-screen mt-" + bgTopMargin}></img>
         </div>
         <SEO />
-        <title>
-            Maria's Website
-        </title>
         <div className="relative flex flex-col z-100 h-full">
             <NavBar />
             <div className="container mx-auto overflow-hidden my-auto h-full">

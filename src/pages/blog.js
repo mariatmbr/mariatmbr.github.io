@@ -10,16 +10,16 @@ export default function Blog() {
             <div class="card w-80 bg-black shadow-xl">
                 <figure><img src={google1} /></figure>
                 <div class="card-body justify-items-start">
-                    <h2 class="card-title">
+                    <h2 class="card-title text-white">
                     My experience as a STEP Intern! 
                     <div class="badge badge-primary"> NEW</div>
                     </h2>
-                    <p>Tips and tricks about getting an internship @ Google.</p>
+                    <p class="text-white">Tips and tricks about getting an internship @ Google.</p>
                     <div class="card-actions">
-                    <div class="badge badge-outline">Tech</div> 
-                    <div class="badge badge-outline">Prep</div> 
-                    <div class="badge badge-outline">Computer Science</div>
-                    <div class="badge badge-outline">Experience</div>
+                    <div class="badge badge-outline text-white">Tech</div> 
+                    <div class="badge badge-outline text-white">Prep</div> 
+                    <div class="badge badge-outline text-white">Computer Science</div>
+                    <div class="badge badge-outline text-white">Experience</div>
                     </div>
                     <button class="btn btn-primary mt-5" 
                     //  onClick={() => navigate("/blog/My_experience_as_a_STEP_Intern")}
