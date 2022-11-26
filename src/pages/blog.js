@@ -22,25 +22,10 @@ export default function Blog() {
                     <div class="badge badge-outline">Experience</div>
                     </div>
                     
-                    <button class="btn btn-primary mt-5">Read more</button>
+                    <button class="btn btn-primary mt-5"  onClick={() => navigate("/blog/My_experience_as_a_STEP_Intern")}>Read more</button>
 
                 </div>
             </div>
-
-            <div class="card glass lg:card-side text-neutral-content mt-4 mr-4">
-                <figure class="p-6">
-                </figure>
-                <div class="max-w-md card-body">
-                    <h2 class="card-title">Projects & Experience</h2>
-                    <p className= "font-semibold">Want to know more about my Projects & Experience?
-                        <span className="font-light">Be my guest! </span>
-                    </p>
-                    <div class="card-actions">
-                        <button class="btn glass rounded-full" onClick={() => navigate("/about/projects")}> know more</button>
-                    </div>
-                </div>
-            </div>
-
         </div>
 
 
