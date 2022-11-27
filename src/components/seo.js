@@ -6,7 +6,7 @@ export default function SEO(){
 return  <Helmet>
 <link rel="icon" type="image/png" href={logo} />
 <title>
-    Maria's Website
+Maria Tîmbur
 </title>
 
 </Helmet>
