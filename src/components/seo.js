@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { Helmet } from 'react-helmet';
-import logo from '../images/logo_blog.png'
+import logo from '../images/logo1.png'
 
 export default function SEO(){
 return  <Helmet>
