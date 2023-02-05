@@ -11,8 +11,7 @@ export default function Blog() {
                 <figure><img src={google1} /></figure>
                 <div class="card-body justify-items-start">
                     <h2 class="card-title text-white">
-                    My experience as a STEP Intern! 
-                    <div class="badge badge-primary"> NEW</div>
+                    How I got my 2 internships at Google
                     </h2>
                     <p class="text-white">Tips and tricks about getting an internship @ Google.</p>
                     <div class="card-actions">
@@ -21,13 +20,11 @@ export default function Blog() {
                     <div class="badge badge-outline text-white">Computer Science</div>
                     <div class="badge badge-outline text-white">Experience</div>
                     </div>
-                    <button class="btn btn-primary mt-5" 
-                    //  onClick={() => navigate("/blog/My_experience_as_a_STEP_Intern")}
-                    >Read more</button>
+                    <button class="b(tn btn-primary mt-5">
+                        <a href="https://mariatimbur.medium.com/how-i-got-my-2-internships-at-google-the-interview-process-with-tips-tricks-66a252489d6e" target="_blank">Read More</a>
+                    </button>
                 </div>
             </div>
         </div>
-
-
     </Layout>
 }

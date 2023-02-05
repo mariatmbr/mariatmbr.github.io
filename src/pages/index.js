@@ -29,8 +29,6 @@ export default function IndexPage() {
             href="/about">
             know more
           </a>
-
-
         </div>
       </span>
     </h1>
